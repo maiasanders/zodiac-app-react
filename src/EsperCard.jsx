@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 const EnemyCard = (props) => {
     const { name, entryNum, locationMain, locationZone, level, element, stealItems, wiki } = props;
 
+    // TODO link to details page for esper
     return (
         <Link to={`#`} className="esper-card">
             <div>
