@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Earth Tyrant",
+        "entryNum": 284,
+        "locationMain": "Dalmasca Westersand",
+        "locationZone": "Wyrm's Nest",
+        "level": 30,
+        "stealItems": [
+            "Hi Potion",
+            " Tyrant Hide",
+            " Tyrant Bone"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Earth_Tyrant",
+        "reward": "1200 gil, opens Wyrm's Nest for travel",
+        "quest": "Earth Tyrant Extermination - Talk to Rimzat at Rabanastre Westgate to begin"
+    },
+    {
+        "name": "Fury",
+        "entryNum": 286,
+        "locationMain": "Necrohol of Nabudis",
+        "locationZone": "Cloister of Reason",
+        "level": 46,
+        "stealItems": [
+            "Bloodwool",
+            " Moondust",
+            " Aries Gem"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Fury_(Final_Fantasy_XII)",
+        "reward": "2100 gil, Bacchus's Wine",
+        "quest": "Part of Three Medallions quest to obtain Chaos"
+    },
+    {
+        "name": "Humbaba Mistant",
+        "entryNum": 288,
+        "locationMain": "Necrohol of Nabudis",
+        "locationZone": "Cloister of Solace",
+        "level": 46,
+        "stealItems": [
+            "Beastlord Hide",
+            " Beastloard Horn",
+            " Behemoth Steak"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Humbaba_Mistant",
+        "reward": "2100 gil",
+        "quest": "Part of Three Medallions quest to obtain Chaos"
+    },
+    {
+        "name": "Hell Wyrm",
+        "entryNum": 290,
+        "locationMain": "Sochen Cave Palace",
+        "locationZone": "Hall of the Wroth God",
+        "level": 60,
+        "stealItems": [
+            "Dark Stone",
+            " Dark Magicite",
+            " Dark Crystal"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Hell_Wyrm",
+        "reward": "50,000 gil, sprite in Sky Pirate's Den/Trophy",
+        "quest": "Wyrm Philosopher, must have completed hunt for Vyraal"
+    },
+    {
+        "name": "King Bomb",
+        "entryNum": 289,
+        "locationMain": "Salikawood",
+        "locationZone": "Grand Bower",
+        "level": 34,
+        "stealItems": [
+            "Bomb Shell",
+            " Fire Crystal",
+            " Bomb Fragment"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/King_Bomb_(Final_Fantasy_XII)",
+        "reward": "Opens path to Necrohol of Nabudis and Nabreus Deadlands",
+        "quest": "n/a"
+    },
+    {
+        "name": "Phoenix",
+        "entryNum": 259,
+        "locationMain": "The Pharos - Subterra",
+        "locationZone": "Penumbra",
+        "level": 59,
+        "stealItems": [
+            "Windslicer Pinion",
+            " Eye of the Hawk",
+            " Split Armor"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Phoenix_(Final_Fantasy_XII)",
+        "reward": "n/a",
+        "quest": "Encountered standalone and in Shadowseer hunt"
+    },
+    {
+        "name": "Omega Mark XII",
+        "entryNum": 292,
+        "locationMain": "Great Crystal",
+        "locationZone": "Dhebon Jilaam Avaa",
+        "level": 99,
+        "stealItems": [
+            "Knot of Rust"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Omega_Mark_XII",
+        "reward": "Omega Badge",
+        "quest": "Must accept Yiazmat hunt"
+    }
+]

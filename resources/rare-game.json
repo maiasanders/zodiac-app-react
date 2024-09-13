@@ -1,0 +1,1490 @@
+[
+    {
+        "name": "Aspidochelon",
+        "entryNum": 293,
+        "rarity": 5,
+        "locationMain": "Cerobi Steppe",
+        "locationZone": "Feddick River",
+        "level": 42,
+        "drops": [
+            "Adamantine Trophy"
+        ],
+        "stealItems": [
+            "Scarletite"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Aspidochelon_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Aerieel",
+        "entryNum": 294,
+        "rarity": 5,
+        "locationMain": "Lhusu Mines",
+        "locationZone": "Ottam Span",
+        "level": 12,
+        "drops": [
+            "Bat Fang",
+            " Golden Armor"
+        ],
+        "stealItems": [
+            "Bat Wing"
+        ],
+        "poach": [
+            "Taurus Gem"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Aerieel"
+    },
+    {
+        "name": "Thalassinon",
+        "entryNum": 295,
+        "rarity": 4,
+        "locationMain": "Phon Coast",
+        "locationZone": "The Vaddu Strand",
+        "level": 38,
+        "drops": [
+            "Shelled Trophy"
+        ],
+        "stealItems": [
+            "Adamantite"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Thalassinon_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Anubys",
+        "entryNum": 296,
+        "rarity": 5,
+        "locationMain": "Sochen Cave Palace",
+        "locationZone": "Mirror of the Soul",
+        "level": 38,
+        "drops": [
+            "Ensanguined Trophy"
+        ],
+        "stealItems": [
+            "Vampyr Fang"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Anubys_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Greeden",
+        "entryNum": 297,
+        "rarity": 3,
+        "locationMain": "Dalmasca Estersand",
+        "locationZone": "Bank of the Nebra",
+        "level": 31,
+        "drops": [
+            "Braid Wool",
+            " Blood Wool"
+        ],
+        "stealItems": [
+            "Wind Crystal"
+        ],
+        "poach": [
+            "Blood Wool"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Greeden"
+    },
+    {
+        "name": "Barmuu",
+        "entryNum": 298,
+        "rarity": 3,
+        "locationMain": "Tomb of Raithwall",
+        "locationZone": "Royal Passage",
+        "level": 19,
+        "drops": [
+            "Solid Stone",
+            " Betelgeuse"
+        ],
+        "stealItems": [
+            "Lamia's Tiara"
+        ],
+        "poach": [
+            "Quality Stone"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Barmuu"
+    },
+    {
+        "name": "Bull Croc",
+        "entryNum": 299,
+        "rarity": 5,
+        "locationMain": "Ozmone Plain",
+        "locationZone": "The Shred",
+        "level": 23,
+        "drops": [
+            "Braid Wool",
+            " Demon Mail"
+        ],
+        "stealItems": [
+            "Blood Wool"
+        ],
+        "poach": [
+            "Broken Sword"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Bull_Croc"
+    },
+    {
+        "name": "Vishno",
+        "entryNum": 300,
+        "rarity": 2,
+        "locationMain": "The Pharos",
+        "locationZone": "First Ascent (Wellspring Ravel - 4th Flight)",
+        "level": 57,
+        "drops": [
+            "Solid Stone",
+            " Ribbon"
+        ],
+        "stealItems": [
+            "Orichalcum"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Vishno"
+    },
+    {
+        "name": "Gavial",
+        "entryNum": 301,
+        "rarity": 4,
+        "locationMain": "Garamsythe Waterway",
+        "locationZone": "No. 10 Channel",
+        "level": 46,
+        "drops": [
+            "Fur-scaled Trophy"
+        ],
+        "stealItems": [
+            "Antarctic Wind"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Gavial_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Etherian",
+        "entryNum": 302,
+        "rarity": 2,
+        "locationMain": "Cerobi Steppe",
+        "locationZone": "The Northsward",
+        "level": 42,
+        "drops": [
+            "Green Liquid",
+            " Silver Liquid"
+        ],
+        "stealItems": [
+            "Ame-no-Murakami"
+        ],
+        "poach": [
+            "Unpurified Ether"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Etherian"
+    },
+    {
+        "name": "Wary Wolf",
+        "entryNum": 303,
+        "rarity": 5,
+        "locationMain": "Mosphoran Highwaste",
+        "locationZone": "Summit Path",
+        "level": 34,
+        "drops": [
+            "Wolf Pelt",
+            " Power Armlet"
+        ],
+        "stealItems": [
+            "Prime Pelt"
+        ],
+        "poach": [
+            "Hell's Gate Flame"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Wary_Wolf"
+    },
+    {
+        "name": "Melt",
+        "entryNum": 304,
+        "rarity": 5,
+        "locationMain": "Henne Mines",
+        "locationZone": "Crossover B",
+        "level": 48,
+        "drops": [
+            "Slimy Trophy"
+        ],
+        "stealItems": [
+            "Hastega Mote"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Melt_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Kaiser Wolf",
+        "entryNum": 305,
+        "rarity": 3,
+        "locationMain": "Dalmasca Westersand",
+        "locationZone": "Corridor of Sand",
+        "level": 41,
+        "drops": [
+            "Fanged Trophy"
+        ],
+        "stealItems": [
+            "Throat Wolf Blood"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Kaiser_Wolf"
+    },
+    {
+        "name": "Cubus",
+        "entryNum": 306,
+        "rarity": 2,
+        "locationMain": "Sochen Cave Palace",
+        "locationZone": "Temptation Eluded",
+        "level": 37,
+        "drops": [
+            "Green Liquid",
+            " Holy Mote"
+        ],
+        "stealItems": [
+            "Silver Liquid"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Cubus"
+    },
+    {
+        "name": "Lindbur Wolf",
+        "entryNum": 307,
+        "rarity": 2,
+        "locationMain": "Dalmasca Westersand",
+        "locationZone": "Galtea Downs",
+        "level": 16,
+        "drops": [
+            "Wolf Pelt",
+            " Prime Pelt"
+        ],
+        "stealItems": [
+            "Gladius"
+        ],
+        "poach": [
+            "Libra Gem"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Lindbur_Wolf"
+    },
+    {
+        "name": "Pineapple",
+        "entryNum": 308,
+        "rarity": 5,
+        "locationMain": "Ogir-Yensa Sandea",
+        "locationZone": "Platform 1 - Refinery",
+        "level": 16,
+        "drops": [
+            "Bomb Ashes",
+            " Storm Staff"
+        ],
+        "stealItems": [
+            "Bomb Shell"
+        ],
+        "poach": [
+            "Bomb Fragment"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Pineapple_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Dreadguard",
+        "entryNum": 309,
+        "rarity": 5,
+        "locationMain": "The Feywood",
+        "locationZone": "Wall of Dancing Shadow",
+        "level": 46,
+        "drops": [
+            "Feathered Trophy"
+        ],
+        "stealItems": [
+            "Mirror Scale"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Dreadguard_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Bombshell",
+        "entryNum": 310,
+        "rarity": 5,
+        "locationMain": "Lhusu Mines",
+        "locationZone": "Lasche Span (southern section)",
+        "level": 60,
+        "drops": [
+            "Yagyu Darkblade",
+            " Bomb Ashes"
+        ],
+        "stealItems": [
+            "Mallet"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Bombshell_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Crypt Bunny",
+        "entryNum": 311,
+        "rarity": 3,
+        "locationMain": "The Feywood",
+        "locationZone": "Walk of Stolen Truths",
+        "level": 45,
+        "drops": [
+            "Drab Wool",
+            " Muramasa"
+        ],
+        "stealItems": [
+            "Holy Mote"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Crypt_Bunny"
+    },
+    {
+        "name": "Megabomb",
+        "entryNum": 312,
+        "rarity": 3,
+        "locationMain": "Nam-Yensa Sandsea",
+        "locationZone": "Demesne of the Sandqueen",
+        "level": 18,
+        "drops": [
+            "Bomb Ashes",
+            " Bomb Shell"
+        ],
+        "stealItems": [
+            "Bomb Fragment"
+        ],
+        "poach": [
+            "Scorpio Gem"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Megabomb"
+    },
+    {
+        "name": "Spee",
+        "entryNum": 313,
+        "rarity": 5,
+        "locationMain": "The Salikawood",
+        "locationZone": "Sun-dappled Path",
+        "level": 36,
+        "drops": [
+            "Drab Wool",
+            " Blood Wool"
+        ],
+        "stealItems": [
+            "Stardust"
+        ],
+        "poach": [
+            "Claymore"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Spee"
+    },
+    {
+        "name": "Matriarch Bomb",
+        "entryNum": 314,
+        "rarity": 5,
+        "locationMain": "Stilshrine of Miriam",
+        "locationZone": "Ward of Measure",
+        "level": 31,
+        "drops": [
+            "Bomb Ashes",
+            " Bomb Shell"
+        ],
+        "stealItems": [
+            "Scorpio Gem"
+        ],
+        "poach": [
+            "Bomb Fragment"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Matriarch_Bomb"
+    },
+    {
+        "name": "Rain Dancer",
+        "entryNum": 315,
+        "rarity": 5,
+        "locationMain": "Giza Plains",
+        "locationZone": "Rains",
+        "level": 23,
+        "drops": [
+            "Fish Scale",
+            " Ichthon Scale"
+        ],
+        "stealItems": [
+            "Miter"
+        ],
+        "poach": [
+            "Dorsal Fin"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Rain_Dancer"
+    },
+    {
+        "name": "Ripe Rampager",
+        "entryNum": 316,
+        "rarity": 5,
+        "locationMain": "Dalmasca Estersand",
+        "locationZone": "Yardang Labyrinth",
+        "level": 4,
+        "drops": [
+            "Pebble",
+            " Calot Hat"
+        ],
+        "stealItems": [
+            "Screamroot"
+        ],
+        "poach": [
+            "Four-Leaf Clover"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Ripe_Rampager_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Razorfin",
+        "entryNum": 317,
+        "rarity": 5,
+        "locationMain": "Garamsythe Waterway",
+        "locationZone": "North Spur Stairway",
+        "level": 4,
+        "drops": [
+            "Fish Scale",
+            " Iron Sword"
+        ],
+        "stealItems": [
+            "Water Crystal"
+        ],
+        "poach": [
+            "Ichthon Scale"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Razorfin"
+    },
+    {
+        "name": "Killbug",
+        "entryNum": 318,
+        "rarity": 4,
+        "locationMain": "Ozmone Plains",
+        "locationZone": "The Switchback",
+        "level": 44,
+        "drops": [
+            "Metallic Trophy"
+        ],
+        "stealItems": [
+            "Knot of Rust"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Killbug"
+    },
+    {
+        "name": "Aspara",
+        "entryNum": 319,
+        "rarity": 2,
+        "locationMain": "Phon Coast",
+        "locationZone": "The Mauleia Strand",
+        "level": 37,
+        "drops": [
+            "Fish Scale",
+            " Pisces Gem"
+        ],
+        "stealItems": [
+            "Empyrean Rod"
+        ],
+        "poach": [
+            "Dorsal Fin"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Apsara"
+    },
+    {
+        "name": "Minibug",
+        "entryNum": 320,
+        "rarity": 5,
+        "locationMain": "Barheim Passage",
+        "locationZone": "East-West Bypass",
+        "level": 46,
+        "drops": [
+            "Mace of Zeus"
+        ],
+        "stealItems": [
+            "Wrath of Gods"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Minibug"
+    },
+    {
+        "name": "Rageclaw",
+        "entryNum": 321,
+        "rarity": 3,
+        "locationMain": "The Salikawood",
+        "locationZone": "Piebald Path",
+        "level": 36,
+        "drops": [
+            "Sickle Trophy"
+        ],
+        "stealItems": [
+            "Sickle-Blade"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Rageclaw_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Ithuno",
+        "entryNum": 322,
+        "rarity": 5,
+        "locationMain": "Barheim Passage",
+        "locationZone": "Special Op Sector 5",
+        "level": 41,
+        "drops": [
+            "Iron Scraps",
+            " Iron Ore"
+        ],
+        "stealItems": [
+            "Deathbringer"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Ithuno"
+    },
+    {
+        "name": "Biding Mantis",
+        "entryNum": 323,
+        "rarity": 4,
+        "locationMain": "Golmore Jungle",
+        "locationZone": "The Needlebrake",
+        "level": 47,
+        "drops": [
+            "Scythe Trophy"
+        ],
+        "stealItems": [
+            "Tattered Garment"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Biding_Mantis"
+    },
+    {
+        "name": "Kris",
+        "entryNum": 324,
+        "rarity": 5,
+        "locationMain": "Tchita Uplands",
+        "locationZone": "The Highlands",
+        "level": 38,
+        "drops": [
+            "Odiferous Trophy"
+        ],
+        "stealItems": [
+            "Putrid Liquid"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Kris_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Wood Toad",
+        "entryNum": 325,
+        "rarity": 5,
+        "locationMain": "The Salikawood",
+        "locationZone": "Corridor of Ages",
+        "level": 35,
+        "drops": [
+            "Horn",
+            " Platinum Helm"
+        ],
+        "stealItems": [
+            "Solid Horn"
+        ],
+        "poach": [
+            "Frogspawn"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Wood_Toad"
+    },
+    {
+        "name": "Dheed",
+        "entryNum": 326,
+        "rarity": 5,
+        "locationMain": "Mosphoran Highwaste",
+        "locationZone": "Skyreach Ridge",
+        "level": 49,
+        "drops": [
+            "Leathern Trophy"
+        ],
+        "stealItems": [
+            "Mirage Vest"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Dheed"
+    },
+    {
+        "name": "Tarasque",
+        "entryNum": 327,
+        "rarity": 3,
+        "locationMain": "Tchita Uplands",
+        "locationZone": "Garden of Life's Circle",
+        "level": 37,
+        "drops": [
+            "Horn",
+            " Solid Horn"
+        ],
+        "stealItems": [
+            "Hunting Crossbow"
+        ],
+        "poach": [
+            "Frog Oil"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Tarasque_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Aeros",
+        "entryNum": 328,
+        "rarity": 2,
+        "locationMain": "Ozmone Plain",
+        "locationZone": "The Shred",
+        "level": 23,
+        "drops": [
+            "Crooked Fang",
+            " Wyvern Fang"
+        ],
+        "stealItems": [
+            "Wyvern Wing"
+        ],
+        "poach": [
+            "Ashura"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Aeros_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Grimalkin",
+        "entryNum": 329,
+        "rarity": 5,
+        "locationMain": "Tchita Uplands",
+        "locationZone": "Uazcuff Hills",
+        "level": 38,
+        "drops": [
+            "Whiskered Trophy"
+        ],
+        "stealItems": [
+            "Coeurl Whisker"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Grimalkin_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Terror Tyrant",
+        "entryNum": 330,
+        "rarity": 5,
+        "locationMain": "Dalmasca Estersand",
+        "locationZone": "Broken Sands",
+        "level": 50,
+        "drops": [
+            "Hide-covered Trophy"
+        ],
+        "stealItems": [
+            "Scathe Mote"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Terror_Tyrant"
+    },
+    {
+        "name": "Nekhbet",
+        "entryNum": 331,
+        "rarity": 5,
+        "locationMain": "Dalmasca Estersand",
+        "locationZone": "Sand-swept Naze",
+        "level": 5,
+        "drops": [
+            "Small Feather",
+            " Wizard's Hat"
+        ],
+        "stealItems": [
+            "Rainbow Egg"
+        ],
+        "poach": [
+            "Small Feather"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Nekhbet"
+    },
+    {
+        "name": "Abelisk",
+        "entryNum": 332,
+        "rarity": 5,
+        "locationMain": "Ridorana Cataract",
+        "locationZone": "Echoes from Time's Garden",
+        "level": 49,
+        "drops": [
+            "Reptilian Trophy"
+        ],
+        "stealItems": [
+            "Eight-fluted Pole"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Abelisk_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Glaring Eye",
+        "entryNum": 333,
+        "rarity": 5,
+        "locationMain": "Henne Mines",
+        "locationZone": "Phase 2 Shaft",
+        "level": 64,
+        "drops": [
+            "Glass Jewel",
+            " Sweep"
+        ],
+        "stealItems": [
+            "Ambrosia"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Glaring_Eye"
+    },
+    {
+        "name": "Dustia",
+        "entryNum": 334,
+        "rarity": 3,
+        "locationMain": "Dalmasca Westersand",
+        "locationZone": "Corridor of Sand",
+        "level": 17,
+        "drops": [
+            "Book of Orgain",
+            " Flame Staff"
+        ],
+        "stealItems": [
+            "Book of Orgain-Mille"
+        ],
+        "poach": [
+            "Capricorn Gem"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Dustia"
+    },
+    {
+        "name": "Cultsworn Lich",
+        "entryNum": 335,
+        "rarity": 5,
+        "locationMain": "The Tomb of Raithwall",
+        "locationZone": "Southfall Passage",
+        "level": 20,
+        "drops": [
+            "Glass Jewel",
+            " Sky Jewel"
+        ],
+        "stealItems": [
+            "Loxley Bow"
+        ],
+        "poach": [
+            "Death Powder"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Cultsworn_Lich"
+    },
+    {
+        "name": "Ishteen",
+        "entryNum": 336,
+        "rarity": 5,
+        "locationMain": "Barheim Passage",
+        "locationZone": "The Zeviah Span",
+        "level": 43,
+        "drops": [
+            "Bony Trophy"
+        ],
+        "stealItems": [
+            "Soul of Thamasa"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Ishteen"
+    },
+    {
+        "name": "Evil Spirit",
+        "entryNum": 337,
+        "rarity": 5,
+        "locationMain": "The Great Crystal",
+        "locationZone": "XIX Teleporter",
+        "level": 61,
+        "drops": [
+            "Glass Jewel",
+            " Gungnir"
+        ],
+        "stealItems": [
+            "Lifewick"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Evil_Spirit_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Vorres",
+        "entryNum": 338,
+        "rarity": 5,
+        "locationMain": "Necrohol of Nabudis",
+        "locationZone": "Hall of the Ivory Covenant",
+        "level": 49,
+        "drops": [
+            "Gravesoil Trophy"
+        ],
+        "stealItems": [
+            "Soul Powder"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Vorres"
+    },
+    {
+        "name": "Juggernaut",
+        "entryNum": 339,
+        "rarity": 4,
+        "locationMain": "The Feywood",
+        "locationZone": "White Magick's Embrace",
+        "level": 46,
+        "drops": [
+            "Lumber",
+            " White Mask"
+        ],
+        "stealItems": [
+            "Mystletainn"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Juggernaut_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Negalmuur",
+        "entryNum": 340,
+        "rarity": 1,
+        "locationMain": "Stilshrine of Miriam",
+        "locationZone": "Ward of the Sword-King",
+        "level": 31,
+        "drops": [
+            "Book of Orgain",
+            " Vanishga Mote"
+        ],
+        "stealItems": [
+            "Capricorn Gem"
+        ],
+        "poach": [
+            "Book of Orgain-Mille"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Negalmuur"
+    },
+    {
+        "name": "Molen",
+        "entryNum": 341,
+        "rarity": 4,
+        "locationMain": "Zertinan Cavern",
+        "locationZone": "Hourglass Basin",
+        "level": 38,
+        "drops": [
+            "Iron Ore",
+            " Gigas Chestplate"
+        ],
+        "stealItems": [
+            "Mythril"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Molen"
+    },
+    {
+        "name": "Larva Eater",
+        "entryNum": 342,
+        "rarity": 1,
+        "locationMain": "Giruvegan - The Great Crystal",
+        "locationZone": "XIII and XIV Teleporters",
+        "level": 47,
+        "drops": [
+            "Demon Eyeball",
+            " Mina"
+        ],
+        "stealItems": [
+            "Scorpio Gem"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Larva_Eater"
+    },
+    {
+        "name": "Tower",
+        "entryNum": 343,
+        "rarity": 5,
+        "locationMain": "Pharos - Third Ascent",
+        "locationZone": "Spire Ravel - 2nd Flight",
+        "level": 59,
+        "drops": [
+            "Solid Stone",
+            " Grand Helm"
+        ],
+        "stealItems": [
+            "Einherjarium"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Tower_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Arioch",
+        "entryNum": 344,
+        "rarity": 5,
+        "locationMain": "Nabreus Deadlands",
+        "locationZone": "The Slumbermead",
+        "level": 47,
+        "drops": [
+            "Vengeful Trophy"
+        ],
+        "stealItems": [
+            "Sage's Ring"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Arioch_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Grey Molter",
+        "entryNum": 345,
+        "rarity": 4,
+        "locationMain": "Mosphoran Highwaste",
+        "locationZone": "Empyrean Way",
+        "level": 34,
+        "drops": [
+            "Snake Skin",
+            " Prime Tanned Hide"
+        ],
+        "stealItems": [
+            "Aries Gem"
+        ],
+        "poach": [
+            "Serpent Eye"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Grey_Molter"
+    },
+    {
+        "name": "Fideliant",
+        "entryNum": 346,
+        "rarity": 5,
+        "locationMain": "Dalmasca Westersand",
+        "locationZone": "The Midfault",
+        "level": 18,
+        "drops": [
+            "Bone Fragment",
+            " Heavy Lance"
+        ],
+        "stealItems": [
+            "Capricorn Gem"
+        ],
+        "poach": [
+            "Broken Spear"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Fideliant"
+    },
+    {
+        "name": "Midgardsormr",
+        "entryNum": 347,
+        "rarity": 5,
+        "locationMain": "Golmore Jungle",
+        "locationZone": "Paths of Chained Light",
+        "level": 24,
+        "drops": [
+            "Snake Skin",
+            " Sakura-saezuri"
+        ],
+        "stealItems": [
+            "Great Serpent's Fang"
+        ],
+        "poach": [
+            "Prime Tanned Hide"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Midgardsormr_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Crystal Knight",
+        "entryNum": 348,
+        "rarity": 1,
+        "locationMain": "Giruvegan - The Great Crystal",
+        "locationZone": "XX Teleporter",
+        "level": 61,
+        "drops": [
+            "Skull Trophy"
+        ],
+        "stealItems": [
+            "Glimmering Robes"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Crystal_Knight"
+    },
+    {
+        "name": "Nazarnir",
+        "entryNum": 349,
+        "rarity": 5,
+        "locationMain": "Giza Plains",
+        "locationZone": "Starfell Field",
+        "level": 45,
+        "drops": [
+            "Maned Trophy"
+        ],
+        "stealItems": [
+            "Destrier Mane"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Nazarnir"
+    },
+    {
+        "name": "Grave Lord",
+        "entryNum": 350,
+        "rarity": 3,
+        "locationMain": "Golmore Jungle",
+        "locationZone": "The Rustling Chapel",
+        "level": 24,
+        "drops": [
+            "Bone Fragment",
+            " Diamond Helm"
+        ],
+        "stealItems": [
+            "Death's Head"
+        ],
+        "poach": [
+            "Blood-darkened Bone"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Grave_Lord"
+    },
+    {
+        "name": "Victanir",
+        "entryNum": 351,
+        "rarity": 5,
+        "locationMain": "Nam-Yensa Sandsea",
+        "locationZone": "Yellow Sands",
+        "level": 46,
+        "drops": [
+            "Maverick Trophy"
+        ],
+        "stealItems": [
+            "Wargod's Band"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Victanir"
+    },
+    {
+        "name": "Zombie Lord",
+        "entryNum": 352,
+        "rarity": 4,
+        "locationMain": "The Tomb of Raithwall",
+        "locationZone": "Northfall Passage",
+        "level": 38,
+        "drops": [
+            "Soulless Trophy"
+        ],
+        "stealItems": [
+            "Close Helmet"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Zombie_Lord"
+    },
+    {
+        "name": "Gemhorn",
+        "entryNum": 353,
+        "rarity": 2,
+        "locationMain": "Lhusu Mines",
+        "locationZone": "Site 11",
+        "level": 45,
+        "drops": [
+            "Tanned Hide",
+            " Great Axe"
+        ],
+        "stealItems": [
+            "Slaven Harness"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Gemhorn"
+    },
+    {
+        "name": "Drowned",
+        "entryNum": 354,
+        "rarity": 5,
+        "locationMain": "Garamsythe Waterway",
+        "locationZone": "No. 4 Cloaca Spur",
+        "level": 40,
+        "drops": [
+            "Foul Flesh",
+            " Scathe Mote"
+        ],
+        "stealItems": [
+            "Forbidden Flesh"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Drowned"
+    },
+    {
+        "name": "Luxoliid",
+        "entryNum": 355,
+        "rarity": 5,
+        "locationMain": "Pharos - Subterra",
+        "locationZone": "Umbra - South",
+        "level": 52,
+        "drops": [
+            "Pebble",
+            " Elixir"
+        ],
+        "stealItems": [
+            "Staff of the Magi"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Luxollid"
+    },
+    {
+        "name": "Velelu",
+        "entryNum": 356,
+        "rarity": 3,
+        "locationMain": "Nabreus Deadlands",
+        "locationZone": "The Fog Mutters",
+        "level": 46,
+        "drops": [
+            "Foul Flesh",
+            " Save the Queen"
+        ],
+        "stealItems": [
+            "Capricorn Gem"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Velelu"
+    },
+    {
+        "name": "Vagrant Soul",
+        "entryNum": 357,
+        "rarity": 5,
+        "locationMain": "Pharos - Subterra",
+        "locationZone": "Abyssal - North",
+        "level": 52,
+        "drops": [
+            "Pebble",
+            " Elixir"
+        ],
+        "stealItems": [
+            "Eight-fluted Pole"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Vagrant_Soul_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Disma",
+        "entryNum": 358,
+        "rarity": 5,
+        "locationMain": "Lhusu Mines",
+        "locationZone": "Site 5 & Site 6 South",
+        "level": 59,
+        "drops": [
+            "Accursed Trophy"
+        ],
+        "stealItems": [
+            "Mirage Vest"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Disma"
+    },
+    {
+        "name": "Imdugud",
+        "entryNum": 359,
+        "rarity": 4,
+        "locationMain": "Nam-Yensa Sansea",
+        "locationZone": "Withering Shores",
+        "level": 17,
+        "drops": [
+            "Large Feather",
+            " Windslicer Pinion"
+        ],
+        "stealItems": [
+            "Shielded Armor"
+        ],
+        "poach": [
+            "White Incense"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Imdugud_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Ancbolder",
+        "entryNum": 360,
+        "rarity": 2,
+        "locationMain": "Paramina Rift",
+        "locationZone": "Karydine Glacier",
+        "level": 29,
+        "drops": [
+            "Mind Trophy"
+        ],
+        "stealItems": [
+            "Forbidden Flesh"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Ancbolder"
+    },
+    {
+        "name": "Bull Chocobo",
+        "entryNum": 361,
+        "rarity": 5,
+        "locationMain": "OgirYensa Sandsea",
+        "locationZone": "South Tank Approach",
+        "level": 47,
+        "drops": [
+            "Beaked Trophy"
+        ],
+        "stealItems": [
+            "Hi-Ether"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Bull_Chocobo_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Wendice",
+        "entryNum": 362,
+        "rarity": 3,
+        "locationMain": "Sochen Cave Palace",
+        "locationZone": "Destiny's March",
+        "level": 38,
+        "drops": [
+            "Frigid Trophy"
+        ],
+        "stealItems": [
+            "Gemini Gem"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Wendice"
+    },
+    {
+        "name": "Skullash",
+        "entryNum": 363,
+        "rarity": 5,
+        "locationMain": "Phon Coast",
+        "locationZone": "Cape Tialan",
+        "level": 37,
+        "drops": [
+            "Clawed Trophy"
+        ],
+        "stealItems": [
+            "Charger Barding"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Skullash"
+    },
+    {
+        "name": "Anchag",
+        "entryNum": 364,
+        "rarity": 2,
+        "locationMain": "Paramina Rift",
+        "locationZone": "Karydine Glacier",
+        "level": 29,
+        "drops": [
+            "Festering Flesh",
+            " Obelisk"
+        ],
+        "stealItems": [
+            "Damascus Steal"
+        ],
+        "poach": [
+            "Forbidden Flesh"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Anchag_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Myath",
+        "entryNum": 365,
+        "rarity": 1,
+        "locationMain": "Stilshrine of Miriam",
+        "locationZone": "Ward of Ventilation",
+        "level": 42,
+        "drops": [
+            "Eternal Trophy"
+        ],
+        "stealItems": [
+            "Leo Gem"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Myath_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Bluesang",
+        "entryNum": 366,
+        "rarity": 5,
+        "locationMain": "Cerobi Steppe",
+        "locationZone": "Crossfield",
+        "level": 42,
+        "drops": [
+            "Cruel Trophy"
+        ],
+        "stealItems": [
+            "Damascus Steel"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Bluesang"
+    },
+    {
+        "name": "Helvinek",
+        "entryNum": 367,
+        "rarity": 2,
+        "locationMain": "Necrohol of Nabudis",
+        "locationZone": "Any",
+        "level": 48,
+        "drops": [
+            "Grimoire Togail",
+            " Grand Armor"
+        ],
+        "stealItems": [
+            "Magick Lamp"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Helvinek"
+    },
+    {
+        "name": "Avenger",
+        "entryNum": 368,
+        "rarity": 5,
+        "locationMain": "Pharos - Second Ascent",
+        "locationZone": "Station of Ascension",
+        "level": 61,
+        "drops": [
+            "Vile Trophy"
+        ],
+        "stealItems": [
+            "Muramasa"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Avenger_(Final_Fantasy_XII_enemy)"
+    },
+    {
+        "name": "Pallicant",
+        "entryNum": 369,
+        "rarity": 2,
+        "locationMain": "Ridorana Cataract",
+        "locationZone": "City of Other Days",
+        "level": 48,
+        "drops": [
+            "Grimoire Togail",
+            " Scorpio Gem"
+        ],
+        "stealItems": [
+            "Gastrophetes"
+        ],
+        "poach": [
+            "Snowfly"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Pallicant"
+    },
+    {
+        "name": "Alteci",
+        "entryNum": 370,
+        "rarity": 3,
+        "locationMain": "Zertinan Cavern",
+        "locationZone": "The Undershore",
+        "level": 41,
+        "drops": [
+            "Fell Trophy"
+        ],
+        "stealItems": [
+            "Behemoth Steak"
+        ],
+        "poach": [
+            ""
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Alteci_(Final_Fantasy_XII)"
+    },
+    {
+        "name": "Phyllo",
+        "entryNum": 371,
+        "rarity": 5,
+        "locationMain": "Golmore Jungle",
+        "locationZone": "The Branchway",
+        "level": 24,
+        "drops": [
+            "Bat Fang",
+            " Spiral Incisor"
+        ],
+        "stealItems": [
+            "Taurus Gem"
+        ],
+        "poach": [
+            "Ras Algethi"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Phyllo"
+    },
+    {
+        "name": "Urutan Exile",
+        "entryNum": 372,
+        "rarity": 2,
+        "locationMain": "Ogir-Yensa Sandsea",
+        "locationZone": "Platform 2 - Refinery",
+        "level": 17,
+        "drops": [
+            "Earth Stone",
+            " Osafune"
+        ],
+        "stealItems": [
+            "Hi-Potion"
+        ],
+        "poach": [
+            "Pebble"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Urutan_Exile"
+    }
+]

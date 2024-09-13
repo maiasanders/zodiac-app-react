@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Rogue Tomato",
+        "entryNum": 212,
+        "locationMain": "Dalmasca Estersand",
+        "locationZone": "The Stepping",
+        "level": 2,
+        "stealItems": [
+            "Pebble",
+            " Fire Stone",
+            " Potion"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Rogue_Tomato",
+        "title": "Red & Rotten in the Desert"
+    },
+    {
+        "name": "Thextera",
+        "entryNum": 214,
+        "locationMain": "Dalmasca Westersand",
+        "locationZone": "Galtea Downs",
+        "level": 6,
+        "stealItems": [
+            "Pebble",
+            " Potion",
+            " Wolf Pelt"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Thextera_(Final_Fantasy_XII)",
+        "title": "Wolf in the Waste"
+    },
+    {
+        "name": "Flowering Cactoid",
+        "entryNum": 216,
+        "locationMain": "Dalmasca Estersand",
+        "locationZone": "Yardang Labyrinth",
+        "level": 4,
+        "stealItems": [
+            "Cactus Fruit",
+            " Earth Stone",
+            " Potion"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Flowering_Cactoid",
+        "title": "Dalmasca's Desert Bloom"
+    },
+    {
+        "name": "Wraith",
+        "entryNum": 218,
+        "locationMain": "Garamsythe Waterway",
+        "locationZone": "Central Waterway Control",
+        "level": 9,
+        "stealItems": [
+            "Glass Jewel",
+            " Dark Magicite",
+            " Hi-Potion"
+        ],
+        "wiki": "https://finalfantasy.fandom.com/wiki/Wraith_(Final_Fantasy_XII)",
+        "title": "Waterway Haunting"
+    }
+]
