@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    color: #2F190D;
+}
+body {
+    background-color: #FEEECF;
+
+}
+/* #root {
+} */
+
+.card {
+    background-color: #faf6ec;
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}

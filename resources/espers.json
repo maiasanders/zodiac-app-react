@@ -1,6 +1,7 @@
 [
     {
         "name": "Adrammelech",
+        "type": ["esper", "enemy"],
         "entryNum": 269,
         "locationMain": "Zertinan Caverns",
         "locationZone": "Athroza Quicksands",

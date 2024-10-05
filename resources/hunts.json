@@ -11,7 +11,8 @@
             " Potion"
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Rogue_Tomato",
-        "title": "Red & Rotten in the Desert"
+        "title": "Red & Rotten in the Desert",
+        "type": ["hunt", "enemy"]
     },
     {
         "name": "Thextera",
@@ -39,7 +40,8 @@
             " Potion"
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Flowering_Cactoid",
-        "title": "Dalmasca's Desert Bloom"
+        "title": "Dalmasca's Desert Bloom",
+        "type": ["hunt", "enemy"]
     },
     {
         "name": "Wraith",
@@ -53,6 +55,7 @@
             " Hi-Potion"
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Wraith_(Final_Fantasy_XII)",
-        "title": "Waterway Haunting"
+        "title": "Waterway Haunting",
+        "type": ["hunt", "enemy"]
     }
 ]

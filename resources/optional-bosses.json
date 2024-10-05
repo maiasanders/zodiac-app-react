@@ -12,7 +12,9 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Earth_Tyrant",
         "reward": "1200 gil, opens Wyrm's Nest for travel",
-        "quest": "Earth Tyrant Extermination - Talk to Rimzat at Rabanastre Westgate to begin"
+        "quest": "Earth Tyrant Extermination - Talk to Rimzat at Rabanastre Westgate to begin",
+        "img": "https://static.wikia.nocookie.net/finalfantasy/images/5/5f/XII_earth_tyrant_render.png/revision/latest?cb=20130629134720",
+        "type": ["optional boss", "enemy", "boss"]
     },
     {
         "name": "Fury",
@@ -27,7 +29,9 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Fury_(Final_Fantasy_XII)",
         "reward": "2100 gil, Bacchus's Wine",
-        "quest": "Part of Three Medallions quest to obtain Chaos"
+        "quest": "Part of Three Medallions quest to obtain Chaos",
+        "img": "https://static.wikia.nocookie.net/finalfantasy/images/0/03/XII_fury_render.png/revision/latest?cb=20130212011045",
+        "type": ["optional boss", "enemy", "boss"]
     },
     {
         "name": "Humbaba Mistant",
@@ -42,7 +46,9 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Humbaba_Mistant",
         "reward": "2100 gil",
-        "quest": "Part of Three Medallions quest to obtain Chaos"
+        "quest": "Part of Three Medallions quest to obtain Chaos",
+        "img": "https://static.wikia.nocookie.net/finalfantasy/images/4/46/HumbabaMistant-ffxii.png/revision/latest?cb=20130629011136",
+        "type": ["optional boss", "enemy", "boss"]
     },
     {
         "name": "Hell Wyrm",
@@ -57,7 +63,9 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Hell_Wyrm",
         "reward": "50,000 gil, sprite in Sky Pirate's Den/Trophy",
-        "quest": "Wyrm Philosopher, must have completed hunt for Vyraal"
+        "quest": "Wyrm Philosopher, must have completed hunt for Vyraal",
+        "img": "https://static.wikia.nocookie.net/finalfantasy/images/5/59/XII_hell_wyrm_render.png/revision/latest?cb=20120720205237",
+        "type": ["optional boss", "enemy", "boss"]
     },
     {
         "name": "King Bomb",
@@ -72,7 +80,9 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/King_Bomb_(Final_Fantasy_XII)",
         "reward": "Opens path to Necrohol of Nabudis and Nabreus Deadlands",
-        "quest": "n/a"
+        "quest": "n/a",
+        "img": "https://static.wikia.nocookie.net/finalfantasy/images/5/5f/XII_king_bomb_render.png/revision/latest?cb=20120721175806",
+        "type": ["optional boss", "enemy", "boss"]
     },
     {
         "name": "Phoenix",
@@ -87,7 +97,9 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Phoenix_(Final_Fantasy_XII)",
         "reward": "n/a",
-        "quest": "Encountered standalone and in Shadowseer hunt"
+        "quest": "Encountered standalone and in Shadowseer hunt",
+        "img": "https://static.wikia.nocookie.net/finalfantasy/images/0/0f/XII_phoenix_render.png/revision/latest?cb=20130629135255",
+        "type": ["optional boss", "enemy", "boss"]
     },
     {
         "name": "Omega Mark XII",
@@ -100,6 +112,8 @@
         ],
         "wiki": "https://finalfantasy.fandom.com/wiki/Omega_Mark_XII",
         "reward": "Omega Badge",
-        "quest": "Must accept Yiazmat hunt"
+        "quest": "Must accept Yiazmat hunt",
+        "img":"https://static.wikia.nocookie.net/finalfantasy/images/1/1a/Omega-ffxii.png/revision/latest?cb=20210311013705",
+        "type": ["optional boss", "enemy", "boss"]
     }
 ]

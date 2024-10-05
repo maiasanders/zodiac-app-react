@@ -6,7 +6,8 @@
             "entryNum": 1000,
             "locationZone": "Bhujerban Aerodrome",
             "desc": "On stack of luggage near one end of the hall",
-            "buyer": "\"Bhujerban\" - sitting on rail across from luggage"
+            "buyer": "\"Bhujerban\" - sitting on rail across from luggage",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -14,7 +15,8 @@
             "entryNum": 1001,
             "locationZone": "Rithil's Protectives",
             "desc": "Inside cabinet by counter",
-            "buyer": "\"Shop Clerk\" - elderly woman near counter"
+            "buyer": "\"Shop Clerk\" - elderly woman near counter",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -22,7 +24,8 @@
             "entryNum": 1002,
             "locationZone": "Targe's Arms",
             "desc": "Between weapons cases on upper level",
-            "buyer": "Woman on lower level talking to a seated man"
+            "buyer": "Woman on lower level talking to a seated man",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -30,7 +33,8 @@
             "entryNum": 1003,
             "locationZone": "Mait's Magicks",
             "desc": "With other bottles and vases in upper level",
-            "buyer": "\"Bhujerban Guru\" - standing next to table where bottle was found"
+            "buyer": "\"Bhujerban Guru\" - standing next to table where bottle was found",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -38,7 +42,8 @@
             "entryNum": 1004,
             "locationZone": "Travica Way",
             "desc": "On street near a Street Kid and young man",
-            "buyer": "\"Bhujerban\" - leaning on wall near Mait's Magicks"
+            "buyer": "\"Bhujerban\" - leaning on wall near Mait's Magicks",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -46,7 +51,8 @@
             "entryNum": 1005,
             "locationZone": "Khus Skygrounds",
             "desc": "Box with moogle near Street Vendor",
-            "buyer": "Woman leaning on wall near Street Vendor"
+            "buyer": "Woman leaning on wall near Street Vendor",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -54,7 +60,8 @@
             "entryNum": 1006,
             "locationZone": "Clio's Technicks",
             "desc": "In a box between the counter and stairs",
-            "buyer": "\"Shop Clerk\" - standing in main aisle"
+            "buyer": "\"Shop Clerk\" - standing in main aisle",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -62,7 +69,8 @@
             "entryNum": 1007,
             "locationZone": "Bashketi's Gambits",
             "desc": "Bookcase on upper level",
-            "buyer": "Seeq Shop Clerk on upper level"
+            "buyer": "Seeq Shop Clerk on upper level",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -70,7 +78,8 @@
             "entryNum": 1008,
             "locationZone": "Miner's End",
             "desc": "On crates near Bashketi's Gambits",
-            "buyer": "Lhusu Miner in southeast talking to a moogle"
+            "buyer": "Lhusu Miner in southeast talking to a moogle",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -78,7 +87,8 @@
             "entryNum": 1009,
             "locationZone": "The Cloudbourne",
             "desc": "Edge of table closest to bar",
-            "buyer": "\"Magu\" - between tavern's exits"
+            "buyer": "\"Magu\" - between tavern's exits",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -86,7 +96,8 @@
             "entryNum": 1010,
             "locationZone": "The Staras Residence",
             "desc": "Between dressers to right of entrance",
-            "buyer": "Niray"
+            "buyer": "Niray",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -94,7 +105,8 @@
             "entryNum": 1011,
             "locationZone": "Cloudbourne Row",
             "desc": "Stacked boxes by Staras Residence",
-            "buyer": "Cloudbourne Patron across from the Cloudbourne"
+            "buyer": "Cloudbourne Patron across from the Cloudbourne",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -102,7 +114,8 @@
             "entryNum": 1012,
             "locationZone": "Kaff Terrace",
             "desc": "Next to blue Seeq at top of stairs",
-            "buyer": "Bhujerban woman standing near edge"
+            "buyer": "Bhujerban woman standing near edge",
+            "type": ["side quest", "bhujerban madhu"]
         },
         {
             "questName": "Bhujerban Madhu",
@@ -110,7 +123,8 @@
             "entryNum": 1013,
             "locationZone": "Lhusu Square",
             "desc": "Edge of pool before entrance to mines",
-            "buyer": "Miners near the Street Vendor"
+            "buyer": "Miners near the Street Vendor",
+            "type": ["side quest", "bhujerban madhu"]
         }
     ],
     "sevenSisters": [
@@ -118,43 +132,50 @@
             "questName": "Seven Sisters",
             "locationMain": "Bhujerba",
             "entryNum": 2000,
-            "routeDestination": "Balfonheim"
+            "routeDestination": "Balfonheim",
+            "type": ["side quest", "seven sisters"]
         },
         {
             "questName": "Seven Sisters",
             "locationMain": "Bhujerba",
             "entryNum": 2001,
-            "routeDestination": "Rabanastre"
+            "routeDestination": "Rabanastre",
+            "type": ["side quest", "seven sisters"]
         },
         {
             "questName": "Seven Sisters",
             "locationMain": "Balfonheim",
             "entryNum": 2002,
-            "routeDestination": "Archades"
+            "routeDestination": "Archades",
+            "type": ["side quest", "seven sisters"]
         },
         {
             "questName": "Seven Sisters",
             "locationMain": "Balfonheim",
             "entryNum": 2003,
-            "routeDestination": "Nalbina"
+            "routeDestination": "Nalbina",
+            "type": ["side quest", "seven sisters"]
         },
         {
             "questName": "Seven Sisters",
             "locationMain": "Archades",
             "entryNum": 2004,
-            "routeDestination": "Nalbina"
+            "routeDestination": "Nalbina",
+            "type": ["side quest", "seven sisters"]
         },
         {
             "questName": "Seven Sisters",
             "locationMain": "Archades",
             "entryNum": 2005,
-            "routeDestination": "Rabanastre"
+            "routeDestination": "Rabanastre",
+            "type": ["side quest", "seven sisters"]
         },
         {
             "questName": "Seven Sisters",
             "locationMain": "Nalbina",
             "entryNum": 2006,
-            "routeDestination": "Rabanastre"
+            "routeDestination": "Rabanastre",
+            "type": ["side quest", "seven sisters"]
         }
     ],
     "cockatrices": [
@@ -164,7 +185,8 @@
             "entryNum": 3000,
             "birdName": "Chit",
             "desc": "Find 8 Dewdrop Peddles around the village",
-            "reward": "Yoichi Blade"
+            "reward": "Yoichi Blade",
+            "type": ["side quest", "cockatrice"]
         },
         {
             "questName": "Missing Cockatrices",
@@ -172,7 +194,8 @@
             "entryNum": 3001,
             "birdName": "Renn",
             "desc": "Catch him! Must have found Chit to get him to return",
-            "reward": "Diamond Sword"
+            "reward": "Diamond Sword",
+            "type": ["side quest", "cockatrice"]
         },
         {
             "questName": "Missing Cockatrices",
@@ -180,7 +203,8 @@
             "entryNum": 3002,
             "birdName": "Shurry",
             "desc": "Speak to Garif Herder first, then Shurry, then Garif Herder again, then Great Chief. Return the Gift of the Great-chief to Shurry, and speak once more to the Garif Herder",
-            "reward": "Platinum Dagger"
+            "reward": "Platinum Dagger",
+            "type": ["side quest", "cockatrice"]
         },
         {
             "questName": "Missing Cockatrices",
@@ -188,7 +212,8 @@
             "entryNum": 3003,
             "birdName": "Sassan",
             "desc": "Take appropriate individual across the river 1) Nathyl    2) Arryl    3) Sassan",
-            "reward": "Koga Blade"
+            "reward": "Koga Blade",
+            "type": ["side quest", "cockatrice"]
         },
         {
             "questName": "Missing Cockatrices",
@@ -196,7 +221,8 @@
             "entryNum": 3004,
             "birdName": "Agytha",
             "desc": "Must have a Sandalwood Chop and have talked to the Cockatrice in Old Town",
-            "reward": "Tumulus"
+            "reward": "Tumulus",
+            "type": ["side quest", "cockatrice"]
         },
         {
             "questName": "Missing Cockatrices",
@@ -204,7 +230,8 @@
             "entryNum": 3005,
             "birdName": "Moomer",
             "desc": "Show Feather of the Flock to the Chocobo Rangler, then talk to Miffed Moogle as he approaches the fence immediately after",
-            "reward": "Defender"
+            "reward": "Defender",
+            "type": ["side quest", "cockatrice"]
         }
     ],
     "bottles": [
@@ -215,7 +242,8 @@
             "color": "1003",
             "clue": "Mait's Magicks",
             "solution": "With other bottles and vases in upper level",
-            "message": "\"Bhujerban Guru\" - standing next to table where bottle was found"
+            "message": "\"Bhujerban Guru\" - standing next to table where bottle was found",
+            "type": ["side quest", "colored bottle"]
         },
         {
             "questName": "Fishing - Colored Bottles",
@@ -224,7 +252,8 @@
             "color": "Blue",
             "clue": "Truth lies just beyond falsehood. CDZCKZMCRNANZS",
             "solution": "DEADLANDS BOAT",
-            "message": "River...unde...o"
+            "message": "River...unde...o",
+            "type": ["side quest", "colored bottle"]
         },
         {
             "questName": "Fishing - Colored Bottles",
@@ -233,7 +262,8 @@
             "color": "Green",
             "clue": "Skip on stones to far bank's shore, by skipping return once more. SSADLNIAKLADHAUETDNREA",
             "solution": "SALIKA HUT NEAR DEADLANDS",
-            "message": "Forest...rgro...w"
+            "message": "Forest...rgro...w",
+            "type": ["side quest", "colored bottle"]
         },
         {
             "questName": "Fishing - Colored Bottles",
@@ -242,7 +272,8 @@
             "color": "Red",
             "clue": "Foothills rise in mountains' shadow. nhliQsTUrEe",
             "solution": "Quiet Shrine",
-            "message": "Fire...undb...h"
+            "message": "Fire...undb...h",
+            "type": ["side quest", "colored bottle"]
         },
         {
             "questName": "Fishing - Colored Bottles",
@@ -251,7 +282,8 @@
             "color": "Yellow",
             "clue": "Dragons stir among the eaters of the wind. 1 2 - - 5 - 7 - 9 -",
             "solution": "Turn on appropriately numbered windmills",
-            "message": "Ash...ridge...e"
+            "message": "Ash...ridge...e",
+            "type": ["side quest", "colored bottle"]
         },
         {
             "questName": "Fishing - Colored Bottles",
@@ -260,7 +292,8 @@
             "color": "Black",
             "clue": "Easy as a, b, c, so count yourself lucky. 19-12-21-9-3-5-7-1-20-5-18-1-20-19",
             "solution": "SLUICE GATE RATS",
-            "message": "Darkness...eton...e"
+            "message": "Darkness...eton...e",
+            "type": ["side quest", "colored bottle"]
         }
     ]
 }
