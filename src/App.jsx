@@ -5,7 +5,7 @@ import { OptionalBossList } from "./OptionalBossList";
 
 const App = () => {
     return (
-        <div id="app" className="p-0 m-0">
+        <div id="app" className="p-0 m-0 bg-merino-500">
             <BrowserRouter>
                 <header><h1>Zodiac Companion</h1></header>
                 <Routes>

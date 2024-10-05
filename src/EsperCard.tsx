@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
+import { Esper } from "./ZodiacTypes";
 
-const EnemyCard = (props) => {
+const EsperCard = (props: Esper) => {
     const { name, entryNum, locationMain, locationZone, level, element, stealItems, wiki } = props;
 
     // TODO link to details page for esper

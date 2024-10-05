@@ -6,7 +6,7 @@ const optionalBosses = [];
 optionalBosses.push(...optionalBossData)
 
     return (
-        <div id="optional-boss-list" className="card-list">
+        <div id="optional-boss-list" className="grid gap-2 grid-cols-2 ">
             {!optionalBosses.length ? (<h2>No bosses found, kupo!</h2>) : optionalBosses.map(boss => {
                 return (
                 <BossCard
