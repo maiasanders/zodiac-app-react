@@ -1,8 +1,13 @@
-export type OptionalBoss = {
+export type EntryBase = {
     name: string;
     entryNum: number;
     locationMain: string;
-    locationZone: string;
+    locationZone?: string;
+    completed: boolean;
+    picture: string;
+}
+
+export type OptionalBoss = EntryBase & {
     level: number;
     stealItems: string[];
     wiki: string;
@@ -12,14 +17,12 @@ export type OptionalBoss = {
     type: string[];
     // _id: string;
 };
- export type Esper = {
-    name: string;
+export type Esper = EntryBase & {
     type: string[];
-    entryNum: number;
-    locationMain: string;
-    locationZone: string;
     level: number;
     element: string;
     stealItems: string[];
     wiki: string;
- }
+}
+
+export type EntryType = OptionalBoss | Esper;

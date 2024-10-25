@@ -1,14 +1,18 @@
 import { Link } from "react-router-dom";
 import { OptionalBoss } from "./ZodiacTypes";
+import { CheckSlider } from "./CheckSlider";
+
 
 const BossCard = (props: OptionalBoss) => {
     const { name, entryNum, locationMain, locationZone, level, stealItems, wiki, reward, quest, img, type } = props;
     const key = props.entryNum;
 
+    let completed = false;
+
     // TODO link to details when available
     // TODO add back images when I have them figured out
     return (
-        <div className="p-2 bg-merino-200 rounded-lg border-merino-700 border-2 shadow-xl">
+        <div className="p-2 bg-merino-200 rounded-lg border-merino-700 border-2 shadow-xl hover:bg-merino-100 hover:shadow-2xl">
             <div className="card-title flex justify-between">
                 <h2 className="text-lg font-semibold">{name}</h2>
                 <h2>{entryNum}</h2>
@@ -25,6 +29,7 @@ const BossCard = (props: OptionalBoss) => {
             </ul> */}
             <h5>{quest}</h5>
             {/* <h5>Reward(s): {reward}</h5> */}
+            <CheckSlider completed={completed}/>
         </div>
     )
 }

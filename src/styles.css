@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    @apply bg-merino-500 p-4;
+}
+
+* {
+    @apply text-oil-950
+}
 /* * {
     color: #2F190D;
 }
